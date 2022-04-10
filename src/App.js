@@ -1,5 +1,6 @@
 import { Container } from "react-bootstrap";
 import "./App.css";
+
 import { CustomCard } from "./components/card/CustomCard";
 import { MovieList } from "./components/movie-list/MovieList";
 import { SearchForm } from "./components/search-form/SearchForm";
